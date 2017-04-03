@@ -1,6 +1,6 @@
 /**
  * HCI Group Project
- * @author Jackson Blankenship, Mathew Borum
+ * @author Jackson Blankenship, Mathew Borum, Zachary Connor
  */
 public class Main {
 
