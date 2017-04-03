@@ -1,4 +1,7 @@
-
+/**
+ * HCI Group Project
+ * @author Jackson Blankenship, {PUT YOUR NAME HERE}
+ */
 public class Main {
 
 	public static void main(String[] args) {
