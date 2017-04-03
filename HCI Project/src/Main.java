@@ -1,6 +1,6 @@
 /**
  * HCI Group Project
- * @author Jackson Blankenship, {PUT YOUR NAME HERE}
+ * @author Jackson Blankenship, Mathew Borum
  */
 public class Main {
 
